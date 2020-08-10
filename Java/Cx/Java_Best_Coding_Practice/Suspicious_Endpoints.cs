@@ -1,0 +1,1 @@
+result = Common_Best_Coding_Practice.Suspicious_Endpoints();

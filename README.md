@@ -1,0 +1,1 @@
+# Checkmarx9.2 Query

@@ -1,0 +1,1 @@
+result=Find_SQL_Injection(Find_Interactive_Inputs());

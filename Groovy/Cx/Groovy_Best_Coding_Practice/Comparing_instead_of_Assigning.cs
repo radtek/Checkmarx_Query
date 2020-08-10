@@ -1,0 +1,1 @@
+result = Common_Best_Coding_Practice.Comparing_instead_of_Assigning();

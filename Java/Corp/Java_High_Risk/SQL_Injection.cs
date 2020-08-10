@@ -1,0 +1,1 @@
+result = base.SQL_Injection();

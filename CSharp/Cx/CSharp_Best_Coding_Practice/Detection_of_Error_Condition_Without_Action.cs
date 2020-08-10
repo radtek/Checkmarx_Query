@@ -1,0 +1,1 @@
+result = Common_Best_Coding_Practice.Detection_of_Error_Condition_Without_Action();

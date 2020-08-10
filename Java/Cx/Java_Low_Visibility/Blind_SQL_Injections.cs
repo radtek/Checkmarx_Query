@@ -1,0 +1,1 @@
+result=Find_Blind_SQL_Injections(Find_Interactive_Inputs());

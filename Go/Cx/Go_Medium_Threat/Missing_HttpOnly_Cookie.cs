@@ -1,0 +1,1 @@
+result = Find_Unsafe_Cookie_Flags("HttpOnly");

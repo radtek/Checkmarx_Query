@@ -1,0 +1,1 @@
+result=Find_XSRF(Find_Interactive_Inputs());

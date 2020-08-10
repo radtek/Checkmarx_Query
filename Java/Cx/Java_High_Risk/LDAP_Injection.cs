@@ -1,0 +1,1 @@
+result=Find_LDAP_Injection(Find_Interactive_Inputs());

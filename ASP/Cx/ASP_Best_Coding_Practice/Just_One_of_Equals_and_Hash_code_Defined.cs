@@ -1,0 +1,1 @@
+result = Common_Best_Coding_Practice.Just_One_of_Equals_and_Hash_code_Defined("equals","gethashcode");

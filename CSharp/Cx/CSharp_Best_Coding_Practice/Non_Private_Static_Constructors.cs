@@ -1,0 +1,1 @@
+result = Common_Best_Coding_Practice.Non_Private_Static_Constructors();
